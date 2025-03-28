@@ -66,7 +66,7 @@ github 계정, VScode, git 파일을 준비한다.
 1. 라이브러리에 **자신의 github 이름과 같은 이름의 폴더**를 만든다.
 ![](https://velog.velcdn.com/images/tss9752/post/f8493891-04b7-4bf8-af8d-a14ad891955f/image.png)
 
-2. VScode에서 git 최초 설정을 해준다.   
+2. VScode에서 git 최초 설정을 해준다.
 	2-1. new terminal 생성하기
     ![](https://velog.velcdn.com/images/tss9752/post/13856bca-f4b4-411f-a403-33eec0789f60/image.png)
 	2-2. git bash하기
@@ -94,16 +94,6 @@ github 계정, VScode, git 파일을 준비한다.
     + git add <파일명> : 파일 하나씩 등록   
     + git rm --cached < file > : unstaged로 파일 되돌리기
     ![](https://velog.velcdn.com/images/tss9752/post/bfe3afd0-1639-458b-acba-6ef810dc0b0e/image.png)
-    + git rm --cached < file > : unstage로 파일 되돌리기   
-8. git commit을 통해 Local repo로 파일을 옮긴다.   
-    + git commit -m "< commit message >"   
-    + git commit -m "< 커밋 메세지 >"   
-    + commit message는 다른 사람들이 내가 올린 코드를 쉽게 알아볼 수 있도록 하는 일종의 제목이다.   
-9. github에 remote repository를 만든다. 이때 repository의 이름은 owner의 이름과 같게 설정한다.   
-10. git push를 통해 remote repo(github)로 파일을 옮긴다.   
-    + git remote add origin <주소> 입력   
-    + git branch -M main 입력   
-    + git push -u origin main 입력    
 
 7. git commit을 통해 Local repo로 파일을 옮긴다.     
     + git commit -m "커밋 메세지"   
@@ -117,13 +107,13 @@ github 계정, VScode, git 파일을 준비한다.
 9. 아마 이런 창이 뜰 거다.
 ![](https://velog.velcdn.com/images/tss9752/post/1c668cd5-cc5c-4909-968c-5867846261b3/image.png)
 여기서 아래에 있는 **…or push an existing repository from the command line**에 있는 명령어들을 복사한다.
-10. VScode terminal 창에 붙여넣기 한다.    
+10. VScode terminal 창에 붙여넣기 한다.
 ![](https://velog.velcdn.com/images/tss9752/post/8dac47c2-b832-42ed-ba33-9ff50d4d2715/image.png)
 ![](https://velog.velcdn.com/images/tss9752/post/c848e4b9-ef7d-4b2a-aae3-fd8ac463aa8b/image.png)
 
 --------------------------------------------------    
     
-자료 출처 : 
+출처 : 
 <https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2036561776>
 
 <https://seonkyukim.github.io/git-tutorial/git-status/>
