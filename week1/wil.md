@@ -66,7 +66,7 @@ github 계정, VScode, git 파일을 준비한다.
 1. 라이브러리에 **자신의 github 이름과 같은 이름의 폴더**를 만든다.
 ![](https://velog.velcdn.com/images/tss9752/post/f8493891-04b7-4bf8-af8d-a14ad891955f/image.png)
 
-2. VScode에서 git 최초 설정을 해준다.
+2. VScode에서 git 최초 설정을 해준다.   
 	2-1. new terminal 생성하기
     ![](https://velog.velcdn.com/images/tss9752/post/13856bca-f4b4-411f-a403-33eec0789f60/image.png)
 	2-2. git bash하기
