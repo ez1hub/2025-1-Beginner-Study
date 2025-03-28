@@ -32,7 +32,7 @@
     - Github actions : 코드 수정 내역을 기록한다.
     - Github projects : 프로젝트 관련 일정 등을 관리한다.   
 --------------------------------------------------
-## 2. github에 올릴 파일의 상태  
+## 2. github에 올릴 파일의 상태      
 ![](https://velog.velcdn.com/images/tss9752/post/4cb42422-fd3f-4964-9bf2-767445d83328/image.png)
 단계를 차근차근 설명해 보겠다.
 
