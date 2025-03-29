@@ -45,7 +45,7 @@
       + branch 삭제 : **git branch "<브랜치 이름>"**
 
 4. 만든 branch로 이동한다.
-   + branch로 이동하기 : **git branch "<브랜치 이름>"**
+   + branch로 이동하기 : **git checkout "<브랜치 이름>"**
    + branch 생성 후 이동하기 : **git checkout -b "<브랜치 이름>"**
    ![](https://velog.velcdn.com/images/tss9752/post/bb418c23-7f1e-4469-af03-b279049aac64/image.png)
 
