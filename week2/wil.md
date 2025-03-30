@@ -87,5 +87,4 @@
 
 --- 
 (GDGoC 실습 확인용 링크)   
-https://github.com/ez1hub/2025-1-Beginner-Study/pull/2
-
+<https://github.com/ez1hub/2025-1-Beginner-Study/pull/8>
