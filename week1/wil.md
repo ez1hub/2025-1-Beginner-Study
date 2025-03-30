@@ -106,8 +106,8 @@ github 계정, VScode, git 파일을 준비한다.
     - 공개 범위에서 Public은 전체 공개, Private는 일부 공개다.
 9. 아마 이런 창이 뜰 거다.
 ![](https://velog.velcdn.com/images/tss9752/post/1c668cd5-cc5c-4909-968c-5867846261b3/image.png)
-여기서 아래에 있는 **…or push an existing repository from the command line**에 있는 명령어들을 복사한다.
-10. VScode terminal 창에 붙여넣기 한다.
+여기서 아래에 있는 **…or push an existing repository from the command line**에 있는 명령어들을 복사한다.   
+10. VScode terminal 창에 붙여넣기 한다.   
 ![](https://velog.velcdn.com/images/tss9752/post/8dac47c2-b832-42ed-ba33-9ff50d4d2715/image.png)
 ![](https://velog.velcdn.com/images/tss9752/post/c848e4b9-ef7d-4b2a-aae3-fd8ac463aa8b/image.png)
 
@@ -118,4 +118,10 @@ github 계정, VScode, git 파일을 준비한다.
 
 <https://seonkyukim.github.io/git-tutorial/git-status/>
 
+
 <https://vcloud-lab.com/entries/devops/-part-3-git-clone-version-control-integration-in-visual-studio-code>
+
+<https://vcloud-lab.com/entries/devops/-part-3-git-clone-version-control-integration-in-visual-studio-code>
+
+<https://vcloud-lab.com/entries/devops/-part-3-git-clone-version-control-integration-in-visual-studio-code>
+
