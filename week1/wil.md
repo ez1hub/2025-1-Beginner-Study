@@ -118,6 +118,9 @@ github 계정, VScode, git 파일을 준비한다.
 
 <https://seonkyukim.github.io/git-tutorial/git-status/>
 
+
+<https://vcloud-lab.com/entries/devops/-part-3-git-clone-version-control-integration-in-visual-studio-code>
+
 <https://vcloud-lab.com/entries/devops/-part-3-git-clone-version-control-integration-in-visual-studio-code>
 
 <https://vcloud-lab.com/entries/devops/-part-3-git-clone-version-control-integration-in-visual-studio-code>
